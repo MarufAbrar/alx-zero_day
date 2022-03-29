@@ -1,5 +1,5 @@
 #!/bin/bash
-echo alx
+echo 'alx'
 ALX School is so cool!
 ALX School
 update_script
